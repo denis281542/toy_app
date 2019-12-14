@@ -20,5 +20,5 @@ rails db:migrate
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-rails s
+rails server
 * ...
